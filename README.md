@@ -1,4 +1,1 @@
-- Hi, I’m Santiago.
-- I’m interested in coding
-- I’m currently learning JS and Python
-- How to reach me: Ds- @SaM#7222
+. . .
